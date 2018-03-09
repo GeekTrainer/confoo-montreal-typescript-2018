@@ -1,0 +1,10 @@
+{
+    "compilerOptions": {
+        "module": "commonjs",
+        "noEmitOnError": true,
+        "lib": [
+            "es2015"
+        ],
+        "target": "es2017"
+    }
+}

@@ -1,0 +1,11 @@
+{
+  "dependencies": {
+    "mongoose": "^5.0.9",
+    "restify": "^6.3.4",
+    "restify-cors-middleware": "^1.1.0"
+  },
+  "devDependencies": {
+    "@types/mongoose": "^5.0.7",
+    "@types/restify": "^5.0.7"
+  }
+}

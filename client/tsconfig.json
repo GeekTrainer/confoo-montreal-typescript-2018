@@ -1,0 +1,23 @@
+{
+    "compilerOptions": {
+        "module": "amd",
+        "target": "es6",
+        "noImplicitAny": true,
+        "noEmitOnError": true,
+        "lib": [
+            "es2015",
+            "dom"
+        ],
+        "types": [
+            "knockout",
+            "jquery"
+        ]
+    },
+    "exclude": [
+        "node_modules"
+    ],
+    "include": [
+        "index.ts",
+        "require-config.ts"
+    ],
+}
